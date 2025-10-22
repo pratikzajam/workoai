@@ -2,7 +2,7 @@
 
 A modern, full-stack employee referral management system that streamlines the hiring process through employee referrals. Built with React, Node.js, Express, MongoDB, and Cloudinary.
 
-![ReferralHub Banner](https://via.placeholder.com/1200x400/6366f1/ffffff?text=ReferralHub+-+Transform+Your+Hiring)
+
 
 ## ✨ Features
 
