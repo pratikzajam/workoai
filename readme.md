@@ -370,7 +370,7 @@ This project is private and proprietary.
 
 ## 📧 Support
 
-For support, email support@referralhub.com or open an issue in the repository.
+For support, email zajampratik@gmail.com or open an issue in the repository.
 
 ## 🔮 Future Enhancements
 
