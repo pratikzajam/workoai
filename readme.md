@@ -267,7 +267,7 @@ This project is private and proprietary.
 
 ## 👥 Support
 
-For support, email [support@referralhub.com](mailto:support@referralhub.com) or open an issue in the repository.
+For support, email [zajampratik@gmail.com](mailto:zajampratik@gmail.com.com) or open an issue in the repository.
 
 ---
 
@@ -284,8 +284,8 @@ For support, email [support@referralhub.com](mailto:support@referralhub.com) or 
 
 ---
 
-**Built with ❤️ by the ReferralHub Team**
+**Built with ❤️ by Pratik Zajam**
 
 ---
 
-Would you like me to also add a **thumbnail preview image** for the YouTube video (so it looks clickable with a preview when seen on GitHub)?
+
