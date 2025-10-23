@@ -1,5 +1,5 @@
 
-# ReferralHub - Frontend
+# ReferralHub 
 
 A modern, responsive employee referral management system built with React, Vite, and Tailwind CSS.
 
