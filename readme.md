@@ -3,7 +3,6 @@
 
 A modern, responsive employee referral management system built with React, Vite, and Tailwind CSS.
 
-🎥 **Video Explanation:** [Watch on YouTube](https://youtu.be/yuKpaVfSEtU)
 
 ---
 
