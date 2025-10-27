@@ -285,8 +285,7 @@ Manages candidate referrals:
 ```javascript
 POST /api/auth/signup       // Register new user
 POST /api/auth/login        // Login user
-POST /api/auth/logout       // Logout user
-GET  /api/auth/me           // Get current user (protected)
+
 ```
 
 #### Candidate Routes
