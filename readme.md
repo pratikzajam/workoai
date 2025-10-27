@@ -4,7 +4,7 @@ A modern, full-stack employee referral management platform that streamlines the 
 
 ## 🎥 Demo Video
 
-[![ReferralHub Demo](https://img.youtube.com/vi/a5RjmlKloZY/0.jpg)](https://youtu.be/a5RjmlKloZY)
+<a href="https://youtu.be/a5RjmlKloZY" target="_blank">🎬 Watch Demo Video on YouTube</a>  
 
 
 
