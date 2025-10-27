@@ -299,7 +299,7 @@ DELETE /api/candidate/candidates/:id        // Delete candidate
 #### Metrics Routes
 ```javascript
 GET /api/matrics/getReferedCandidates/:userId  // Get all referral metrics
-GET /api/matrics/stats/:userId                 // Get user statistics
+
 ```
 
 ### Database Models
