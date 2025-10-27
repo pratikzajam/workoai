@@ -2,6 +2,10 @@
 
 A modern, full-stack employee referral management platform that streamlines the hiring process through employee referrals. Built with React, Node.js, Express, and MongoDB.
 
+## 🎥 Demo Video
+
+[![ReferralHub Demo](https://img.youtube.com/vi/a5RjmlKloZY/0.jpg)](https://youtu.be/a5RjmlKloZY)
+
 
 
 ## ✨ Features
