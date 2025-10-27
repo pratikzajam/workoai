@@ -64,7 +64,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone (https://github.com/pratikzajam/workoai.git)
 cd referralhub
 ```
 
@@ -148,11 +148,7 @@ The application will be available at `http://localhost:5173`
 npm run dev          # Start server with nodemon (auto-reload)
 npm start            # Start production server
 
-# Database
-npm run seed         # Seed database with sample data (if available)
 
-# Testing
-npm test             # Run tests (if configured)
 ```
 
 ### Frontend
@@ -164,8 +160,7 @@ npm run dev          # Start development server
 npm run build        # Build for production
 npm run preview      # Preview production build
 
-# Code Quality
-npm run lint         # Run ESLint
+
 ```
 
 ## 📁 Project Structure
